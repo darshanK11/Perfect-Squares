@@ -30,3 +30,27 @@ Number of Actors: 15
 CPU Time: 56.301 sec
 Real Time: 10.620 sec
 Ration: 5.30
+![](./DOS_10^6,4_Actors15_Ratio5.30.png)
+
+Input: N = 1000000 (10<sup>6</sup>), k = 4
+Number of Actors: 22
+CPU Time: 42.802 sec
+Real Time: 8.143 sec
+Ration: 5.25
+![](./DOS_10^6,4_Actors22_Ratio5.25.png)
+
+## Largest Problem we managed to Run
+
+Input: N = 100000000 (10<sup>8</sup>), k = 24
+Number of Actors: 10
+CPU Time: 1 hr 16 min 14.999 sec
+Real Time: 15 min 43.225 sec
+Ration: 4.85
+![](./DOS_10^8,24_Actors10_Ratio4.85.png)
+
+Input: N = 100000000 (10<sup>8</sup>), k = 24
+Number of Actors: 16
+CPU Time: 1 hr 17 min 58.174 sec
+Real Time: 16 min 32.294 sec
+Ration: 4.71
+![](./DOS_10^8,24_Actors16_Ratio4.71.png)
